@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my second program</title>
+</head>
+<body>
+    <h1>Global Warming</h1>
+    <h2>Safe Enviornment</h2>
+    <img src="https://www.euroschoolindia.com/blogs/wp-content/uploads/2023/07/global-warming.jpg" width="200px" height="200px"> </img>
+    <p>you can see all the information of global warming </p>
+    <a href="https://en.wikipedia.org/wiki/Climate_change">global warming</a>
+
+    <h1>short summary on global warming</h1>
+    <p>Global warming is the long-term, human-caused increase in Earth's average surface temperature, primarily from burning fossil fuels which releases heat-trapping greenhouse gases like carbon dioxide into the atmosphere</p>
+    <p>you can take more info by the video</p>
+    <video width="500px"  controls>
+        <source src="https://youtu.be/Vztjbm6HA58?si=FrSt-4tnSo0DzIEA">your browser dosent support video
+    </video>
+    
+</body>
+</html>
