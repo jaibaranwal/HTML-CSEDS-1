@@ -1,0 +1,22 @@
+#abc1{color:blueviolet;
+    background-color:lavender;
+
+}
+#abc2{color:rgb(226, 43, 43);
+    background-color:rgb(127, 154, 30);
+    
+}
+.box1{
+    border:2px solid black;
+    background-color: beige;
+    width:200px;
+    height:100px;
+    margin:10px;
+}
+.box2{
+    border:2px dashed red;
+    backgroun-color:lightgrey;
+    width:200px;
+    height:100px;
+    margin:10px;
+}
