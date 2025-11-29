@@ -1,0 +1,37 @@
+ul{
+    list-style-type: none; 
+    width: auto;
+}
+li{ 
+    display: inline;
+    padding: 20px;
+    width: auto;
+    margin: auto;
+    font-size: 20px;
+    background-color: rgb(168, 163, 163);
+    align: center;
+
+}
+a{
+    text-decoration: none;
+    margin: auto;
+    padding: 20px;
+    font-size: 20px;
+    color: black;
+    align: center;
+}
+a:hover{
+    color: white;
+    background-color: rgb(113, 112, 112);
+    padding: 5px;
+    border-radius: 5px;
+}
+body{
+    text-align: center;
+}
+nav{
+    text-align: center;;
+    padding: 20px;
+    background-color: lightgray;
+    margin: auto;
+}
