@@ -1,10 +1,61 @@
-header{
-    background-color: #000000;
-    padding: 20px;
-    text-align: center;
-    font-style: bold;
-    font-size: 24px;
-    color:white;
-    font-family: Arial, sans-serif;
-    border-bottom: 2px solid #e0e0e0;
+.heading {
+border: 2px;
+width: auto;
+height:80px;
+text-align: center;
+font-family: 'Arial', sans-serif;
+background-color:black;
+text-align: center;
+vertical-align: middle;
+color: white;
+padding: 20px;
+}
+.logo {
+width: 280px;
+height: 280px;
+margin-top: 20px;
+background-color: #07f5ceef;
+border:#07f5ceef;
+}
+button {
+background-color:blue;
+color: white;
+text-align: center;
+width: 300px;
+height: 40px;
+font-size: 20px;
+border: Opx;
+}
+.parent {
+width: 300px;
+height: 230px;
+margin-left: auto;
+margin-right: auto
+}
+#price{
+text-decoration: line-through;
+color: grey;
+padding: 8px;
+}
+.price section {
+display: inline-block;
+}
+.outer{
+border: 2px solid #f6f9f9;
+width: 320px;
+height: 500px;
+margin-left: auto;
+margin-right: auto;
+margin-top: 20px;
+text-align: center;
+padding: 20px;
+}
+.price{
+text-align: left;
+}
+.border {
+border: 2px solid black;
+width: 280px;
+height: 280px;
+margin-top: 20px;
 }
