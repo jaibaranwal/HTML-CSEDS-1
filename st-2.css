@@ -1,0 +1,23 @@
+ul{
+    list-style-type: none; 
+    width: auto;
+}
+li{ 
+    float:left;
+    list-style-type: none;
+    padding: 20px;
+    width: auto;
+    margin: auto;
+    font-size: 20px;
+    background-color: grey;
+    align: center;
+
+}
+a{
+    text-decoration: bold;
+    margin: auto;
+    padding: 20px;
+    font-size: 20px;
+    color: black;
+    align: center;
+}
